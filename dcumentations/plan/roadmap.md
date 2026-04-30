@@ -58,7 +58,7 @@ Once the RL agent can flawlessly execute spatial goals, we introduce natural lan
 - [x] **Phase 2: Reinforcement Learning**
   - [x] Seq 1: RL Environment (Gym Wrapper)
   - [x] Seq 2: Reward Function (Placement Task)
-  - [ ] Seq 3: PPO Training Loop
-  - [ ] Seq 4: Task Generalization (Grids, Stacking, Rooms)
-- [ ] **Phase 3: Multi-Agent Director**
-  - [ ] Seq 5: LLM Gateway & Decomposition Engine
+  - [x] Seq 3: PPO Training Loop
+  - [x] Seq 4: Task Generalization (Grids, Stacking, Rooms)
+- [x] **Phase 3: Multi-Agent Director**
+  - [x] Seq 5: LLM Gateway & Decomposition Engine
